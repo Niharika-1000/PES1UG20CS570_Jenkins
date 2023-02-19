@@ -20,6 +20,7 @@ pipeline
         echo 'test stage successful'
       }
     }
+  }
     post
     {
       failure
